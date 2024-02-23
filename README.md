@@ -16,11 +16,11 @@
 
 Here're some of the project's best features:
 
-*   [Hardware](https://github.com/Christopher-Mata/MY-OSUArchive/Hardware)
-*   [Resources](https://github.com/Christopher-Mata/MY-OSUArchive/Resources)
-*   [Settings](https://github.com/Christopher-Mata/MY-OSUArchive/Settings)
-*   [Software](https://github.com/Christopher-Mata/MY-OSUArchive/Software)
-*   [Songs](https://github.com/Christopher-Mata/MY-OSUArchive/Songs)
+*   [Hardware](https://github.com/Christopher-Mata/MY-OSUArchive/tree/main/Hardware)
+*   [Resources](https://github.com/Christopher-Mata/MY-OSUArchive/tree/main/Resources)
+*   [Settings](https://github.com/Christopher-Mata/MY-OSUArchive/tree/main/Settings)
+*   [Software](https://github.com/Christopher-Mata/MY-OSUArchive/tree/main/Software)
+*   [Songs](https://github.com/Christopher-Mata/MY-OSUArchive/tree/main/Songs)
 
 <h2>Credits</h2>
 
