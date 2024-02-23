@@ -17,11 +17,12 @@
 Here're some of the project's best features:
 
 *   [Hardware](https://github.com/Christopher-Mata/MY-OSUArchive/Hardware)
-*   [Software](https://github.com/Christopher-Mata/MY-OSUArchive/Software)
-*   [Settings](https://github.com/Christopher-Mata/MY-OSUArchive/Settings)
-*   [Songs](https://github.com/Christopher-Mata/MY-OSUArchive/Songs)
 *   [Resources](https://github.com/Christopher-Mata/MY-OSUArchive/Resources)
+*   [Settings](https://github.com/Christopher-Mata/MY-OSUArchive/Settings)
+*   [Software](https://github.com/Christopher-Mata/MY-OSUArchive/Software)
+*   [Songs](https://github.com/Christopher-Mata/MY-OSUArchive/Songs)
 
 <h2>Credits</h2>
+
 *   [Current OSU Profile](https://osu.ppy.sh/users/13370728)
 *   OLD OSU Profile - Deleted due to a friend thinking it was funny
